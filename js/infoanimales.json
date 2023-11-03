@@ -1,0 +1,453 @@
+{
+    "Beagle":{
+    "cabecera":[
+        {
+            "titulo": "Beagle",
+            "img":["https://images.pexels.com/photos/3764319/pexels-photo-3764319.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "https://media.istockphoto.com/id/1257191708/es/foto/perro-feliz-corriendo-con-orejas-voladoras.jpg?s=612x612&w=0&k=20&c=n4vjmdniuzlTk9Kd-yjHbe3OyBYjx9sTgPpPfxhjxSg=","https://images.pexels.com/photos/7289/animal-dog-pet-sad.jpg?auto=compress&cs=tinysrgb&w=400","https://images.pexels.com/photos/38010/pexels-photo-38010.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "https://images.pexels.com/photos/1031466/pexels-photo-1031466.jpeg?auto=compress&cs=tinysrgb&w=400"]
+        }
+    ],
+
+    "datos":[
+        {
+            "titulo": "Información de la raza",
+            "descripcion":"Son perros compactos y musculosos, tienen orejas largas y colgantes.Su pecho es profundo, la espalda recta y una cola moderadamente larga.El pelo suave y denso de esta raza suele ser negro, pardo y blanco."
+        },
+        {
+            "titulo": "Personalidad",
+            "descripcion":"Son perros alegres y cariñosos, adoptan comportamientos destructivos y suelen ladrar en exceso si se quedan mucho timepo solos.Se llevan bien con otras mascotas y con los niños, les gusta el afecto.Encabezan la lista de ladridos excesivos y pueden ser difíciles de adiestrar."
+        }
+    ],
+    "caracteristicas":[
+        {
+            "titulo":"Nivel de energía:",
+            "descripcion":"Media"
+        },
+        {
+            "titulo":"Tendencia a ladrar:",
+            "descripcion":"Alta"
+        },
+        {
+            "titulo":"Peso promedio:",
+            "descripcion":"10 -20kg"
+        },
+        {
+            "titulo":"Tendencia a babear:",
+            "descripcion":" Baja"
+        },
+        {
+            "titulo":"Tendencia a excavar:",
+            "descripcion":"Baja"
+        },
+        {
+            "titulo":"Necesidad de atención:",
+            "descripcion":"Alta"
+        },
+        {
+            "titulo":"Esperanza de vida:",
+            "descripcion":" 12-15 años"
+        },
+        {
+            "titulo":"Necesidad de aseo general:",
+            "descripcion":" Baja"
+        }
+    ]},
+
+
+    "Boyero":{
+    "cabecera":[
+        {
+            "titulo": "Boyero de berna",
+            "img":["https://media.istockphoto.com/id/1143267822/es/foto/perro-de-monta%C3%B1a-bern%C3%A9s-en-el-prado-de-verano.jpg?s=612x612&w=0&k=20&c=l3JTxNfHMakmgGVkscjkHpWBilbmd7Qtzy_Z8e70F-Q=","https://media.istockphoto.com/id/1248966472/es/foto/primer-plano-del-perro-de-monta%C3%B1a-bern%C3%A9s-en-una-naturaleza.jpg?s=612x612&w=0&k=20&c=6vr-rWKaNGpkQnkBghp3sj4-mVx6saTiEKVq8pownsw=","https://media.istockphoto.com/id/178864165/es/foto/boyero-de-berna-puppets-sniff-todas-las-dem%C3%A1s.jpg?s=612x612&w=0&k=20&c=frsV268vAj86miOKiw7N_Po0D_Qt7ga9rOVPmE2uQZg=",
+            "https://media.istockphoto.com/id/147312025/es/foto/boyero-de-berna.jpg?s=612x612&w=0&k=20&c=Bt60Rzv_bFFXCswPgRj0sGN7GkHbpXFkB4pZJcnbBMU=","https://media.istockphoto.com/id/485610539/es/foto/cachorro-yacer-en-la-terraza.jpg?s=612x612&w=0&k=20&c=wpYX3S9pAMZarZm4Tx44dQAjw8PjDEVP_Ebz86h14iI="]
+        }
+    ],
+
+    "datos":[
+        {
+            "titulo": "Información de la raza",
+            "descripcion": "El boyero de Berna es una raza de perro muy versátilque se originó en el Cantón de Berna en Suiza. Se trata de un moloso macizo, se caracteriza por sus colores negro, marrón y blanco."
+        },
+        {
+            "titulo": "Tipo de de Boyero de Berna",
+            "descripcion":"Boyero de Berna, Gran Boyero Suizo, Boyero de Flandes, Boyero Australiano, Boyero de Entlebuch, Boyero de las Árdenas."
+        }
+        ,
+        {
+            "titulo": "Cuidado del pelo",
+            "descripcion":"Boyero de Berna, Gran Boyero Suizo, Boyero de Flandes, Boyero Australiano, Boyero de Entlebuch, Boyero de las Árdenas."
+        },
+        {
+            "titulo": "Esperanza de vida",
+            "descripcion":"Necesitan un cepillado diario. Para reducir la caída el pelo y evitar los enredos que pueden llegar a ser molestos para el animal."
+        }
+    ],
+    "caracteristicas":[
+        {
+            "titulo":"Peso promedio:",
+            "descripcion":"40 - 44kg"
+        },
+        {
+            "titulo":"Tendencia a ladrar:",
+            "descripcion":"Media"
+        },
+        {
+            "titulo":"Esperanza de vida:",
+            "descripcion":" Corta"
+        },
+        {
+            "titulo":"Tamaño promedio:",
+            "descripcion":" 60 - 70cm"
+        },
+        {
+            "titulo":"Tendencia a excavar:",
+            "descripcion":"Baja"
+        },
+        {
+            "titulo":"Necesidad de atención:",
+            "descripcion":"Alta"
+        },
+        {
+            "titulo":"Necesidad de aseo general:",
+            "descripcion":"Alta"
+        }
+    ]},
+
+    "Caniche":{
+    "cabecera":[
+        {
+            "titulo": "Caniche",
+            "img":["https://media.istockphoto.com/id/1403454705/es/foto/un-peque%C3%B1o-cachorro-sonriente-de-un-caniche-marr%C3%B3n-claro-en-un-hermoso-prado-verde-corre.jpg?s=612x612&w=0&k=20&c=gto1s_AqxQhfr_PNAs2N4QMqFdB6NPU4bIy_qTueCeU=","https://media.istockphoto.com/id/157742300/es/foto/el-majestuoso-casa-perro.jpg?s=612x612&w=0&k=20&c=BRNpr3Dpie9W-n-RDKTx2ZIZ45pLnMUJGPgor9TaLr0=","https://media.istockphoto.com/id/479272850/es/foto/bich%C3%B3n-en-el-parque.jpg?s=612x612&w=0&k=20&c=ipEsHFX_E2RcklRhVocXw5D756Aw26Fg9fc3OrfEJaQ=","https://media.istockphoto.com/id/1380984414/es/foto/poddle-de-juguete-en-la-cama.jpg?s=612x612&w=0&k=20&c=7aweTO3qN7lVPCSpY352DJLfkSIY0StiB-M_Gxj2a-0=",
+            "https://media.istockphoto.com/id/158271462/es/foto/tama%C3%B1o-medio-del-caniche.jpg?s=612x612&w=0&k=20&c=V6ZOWCnJgo6U1QDDNi2nwNDHlh6ScF6l_3EsUMPaU84="]
+        }
+    ],
+
+    "datos":[
+        {
+            "titulo": "Información de la raza",
+            "descripcion":"Tienen un perfil cuadrado, cuello alargado y elegante, espalda recta. La cola está amputada, pero no es corta, por lo que puede moverla. Tienen tendencia a parecer patilargos, hocico alargado y orejas caídas.."
+        },
+        {
+            "titulo": "Tipos de Caniches",
+            "descripcion":"Toy: altura a la cruz hasta 28 cm. Enano: altura a la cruz entre 28-35 cm. Mediano: altura a la cruz entre 35-45 cm. Grande: altura a la cruz hasta 55 cm."
+        },
+        {
+            "titulo": "Cuidado del pelo",
+            "descripcion":"Se destaca por su pelo rizado y lanoso. Los colores más habituales son el negro y el blanco, también hay marrones, grises y beiges. El corte león se ha convertido en una seña de identidad para esta raza."
+        },
+        {
+            "titulo": "Cuidados especiales",
+            "descripcion":"La variedad de caniche enano tiene predisposición a padecer otitis,y sufrir una degeneración progresiva de la retina."
+        }
+    ],
+
+
+    "caracteristicas":[
+        {
+            "titulo":"Tendencia a excavar:",
+            "descripcion":"Baja"
+        },
+        {
+            "titulo":"Tendencia a ladrar:",
+            "descripcion":"Muy alto"
+        },
+        {
+            "titulo":"Nivel de energía: ",
+            "descripcion":"Muy alto"
+        },
+        {
+            "titulo":"Necesidad de atención:",
+            "descripcion":"Alta"
+        },
+        {
+            "titulo":"Esperanza de vida:",
+            "descripcion":"10-14 años"
+        },
+        {
+            "titulo":"Necesidad de aseo general:",
+            "descripcion":"Media"
+        }
+    ]},
+
+
+    "Dalmata":{
+    "cabecera":[
+        {
+            "titulo": "Dalmata",
+            "img":["https://media.istockphoto.com/id/821419124/es/foto/perro-d%C3%A1lmata-es-mentira-en-un-colorido-flowerfield.jpg?s=612x612&w=0&k=20&c=7eBmUXkSGs2oZiUZV1UZRCm65H6otvBeBOm8MLl55Kw=","https://media.istockphoto.com/id/467082005/es/foto/d%C3%A1lmata-cachorro.jpg?s=612x612&w=0&k=20&c=6a54e2w-TJTYkJ5GUiNHV8YrQMkmLttPDmJDtMsxeKc=","https://media.istockphoto.com/id/1206685514/es/foto/perro-d%C3%A1lmata-posando-y-jugando-en-el-campo.jpg?s=612x612&w=0&k=20&c=OJOnX4roHb1KOm8PFtXI7-6kezWt6dFY3tnlXo5r-gQ=",           "https://media.istockphoto.com/id/851325296/es/foto/cachorro-d%C3%A1lmata-acostado-en-un-sof%C3%A1.jpg?s=612x612&w=0&k=20&c=57HiRt8013OK8t5elhXj3VpYu334DY2CM6zE3BueTCI=","https://media.istockphoto.com/id/185280999/es/foto/fuego-perro-de-reposo-de-equipo-de-incendios-mirando-a-la-c%C3%A1mara.jpg?s=612x612&w=0&k=20&c=gKEnQ4Dg7e6KO8vX1oQc-k5lUE9rhFVgkYV4-b5Ej3A="]
+        }
+    ],
+
+    "datos":[
+        {
+            "titulo": "Información de la raza",
+            "descripcion":"Los Dálmatas, perros fieles, juguetones e inteligentes,se sienten realizados con la compañía de personas. Necesitan realizar ejercicio intenso para disipar su inagotable energía."
+        },
+        {
+            "titulo": "Características del pelo",
+            "descripcion":"El pelo es corto y denso, con manchas marrones o negras sobre blanco.La muda es intensa, a pesar de ser el pelo corto. Es necesario realizar cepillados recuentes para controlar la muda."
+        },
+        {
+            "titulo": "Personalidad",
+            "descripcion":"Son perros muy enérgicos, juguetones y sensibles. Son fieles a la familia y se llevan bien con los niños, aunque algunos expertos en Dálmatas, advierten de que esta raza podría ser excesivamente enérgica para niños muy pequeños. Son perros inteligentes, se los puede adiestrar muy bien y son buenos perros de guarda."
+        }
+    ],
+
+
+    "caracteristicas":[
+        {
+            "titulo":"Altura:",
+            "descripcion":"45 - 58cm"
+        },
+        {
+            "titulo":"Peso promedio: ",
+            "descripcion":"25 - 35kg"
+        },
+        {
+            "titulo":"Tendencia a ladrar:",
+            "descripcion":"Baja"
+        },
+        {
+            "titulo":"Nivel de energía: ",
+            "descripcion":"Muy ato"
+        },
+        {
+            "titulo":"Tendencia a excavar:",
+            "descripcion":"Baja"
+        },
+        {
+            "titulo":"Necesidad de atención: ",
+            "descripcion":"Alta"
+        },
+        {
+            "titulo":"Esperanza de vida:",
+            "descripcion":"12 - 14 años"
+        },
+        {
+            "titulo":"Criado para:",
+            "descripcion":"Perro de carruaje"
+        }
+    ]},
+
+
+    "Husky":{
+    "cabecera":[
+        {
+            "titulo": "Husky",
+            "img":["https://media.istockphoto.com/id/1437752547/es/foto/husky-con-lana-blanca-y-roja-disfrutando-del-paseo-perro-con-collar-en-el-prado-de-oto%C3%B1o-ocio.jpg?s=612x612&w=0&k=20&c=ccjUavH6RjB73tVvJ0XOa__ERhZ0oWGBwIhBm8XIr9M=","https://media.istockphoto.com/id/1183939920/es/foto/husky-siberiano-en-nieve-invernal.jpg?s=612x612&w=0&k=20&c=775Bw15dzTki4fox2AxJHaLpBOtDvI1kVmnob5ZRE6Y=","https://media.istockphoto.com/id/1370526155/es/foto/joven-husky-siberiano-que-pasa-tiempo-al-aire-libre-en-un-agradable-d%C3%ADa-de-verano.jpg?s=612x612&w=0&k=20&c=UlJo2bAjW0uUl5Q8MiqDA_7o-1bm4ZhsQndYMWMmE08=","https://media.istockphoto.com/id/1663881051/es/foto/malamute-de-alaska.jpg?s=612x612&w=0&k=20&c=r1YXXuJdYAuI0yVYXy1xvwcoFNnrFGSFCbnKf1PKebs=","https://media.istockphoto.com/id/1406667154/es/foto/perro-husky-siberiano-mirando-con-la-lengua-pegada-hacia-afuera.jpg?s=612x612&w=0&k=20&c=EJojsTlowuAXf2-hxzerClHmiBr1KGxbmPTNHiMhVKA="]
+        }
+    ],
+
+    "datos":[
+        {
+            "titulo": "Información de la raza",
+            "descripcion":"Los Huskies siberianos, los clásicos perros del norte, son simpáticos e inteligentes,aunque algo independientes y tozudos. Se sienten realizados con la compañía de las personas, aunque necesitan un adiestramiento sólido y moderado desde que son cachorros."
+        },
+        {
+            "titulo": "Cuidado del pelo",
+            "descripcion":"Se recomienda cepillarlo 1 vez a la semana y bañar mensualmente.Es una raza de muda por lo que no debe cortarse el pelo. Se mantiene con cepillados, deslanados y un ligero acicalado a tijera para favorecer las formas."
+        },
+        {
+            "titulo": "Personalidad",
+            "descripcion":" Son inteligentes, aunque algo independientes y tozudos. Se sienten realizados con la compañía humana aunque necesitan un adiestramiento firme y amable desde que son cachorros. Son perros criados para correr, tienden a ser simpáticos con las personas, incluidos los niños.La mayor parte de estos perros se llevan bien con otros, especialmente si han crecido juntos. Tienen un fuerte impulso de presa y pueden perseguir gatos y ganado. Pueden ser excavadores, especialmente cuando hace calor, porque les gusta crear lugares frescos en los que estirarse. Estos perros no ladran, si no que aúllan, lo cual puede ser muy molesto en ocaciones."
+        }
+    ],
+
+
+    "caracteristicas":[
+        {
+            "titulo":"Altura:",
+            "descripcion":"53-58cm"
+        },
+        {
+            "titulo":"Nivel de energía:",
+            "descripcion":"Medio"
+        },
+        {
+            "titulo":"Rango de peso:",
+            "descripcion":"20 - 35 kg"
+        },
+        {
+            "titulo":"Tendencia a excavar: ",
+            "descripcion":"Media"
+        },
+        {
+            "titulo":"Tendencia a ladrar:",
+            "descripcion":"Moderada"
+        },
+        {
+            "titulo":"Criado para:",
+            "descripcion":"Perro de trineo"
+        },
+        {
+            "titulo":"Esperanza de vida:",
+            "descripcion":"11 - 13 años"
+        }
+    ]},
+
+
+
+    "Labrador":{
+    "cabecera":[
+        {
+            "titulo": "Labrador",
+            "img":["https://media.istockphoto.com/id/1285465107/es/foto/leal-golden-retriever-perro-sentado-en-un-c%C3%A9sped-verde-del-patio-trasero-mira-a-la-c%C3%A1mara-top.jpg?s=612x612&w=0&k=20&c=NpTma7WE7BMyXB8tXdW1ueDz4A5sJp9Y_XztXTVFpxI=","https://static.nationalgeographicla.com/files/styles/image_3200/public/01-chocolate-lab-nationalgeographic_1154144.webp?w=1450&h=816","https://www.zooplus.es/magazine/wp-content/uploads/2019/04/labrador-3-Farben-768x512.jpg","https://media.istockphoto.com/id/1248529734/es/foto/golden-retriever-en-el-campo-con-flores-amarillas.jpg?s=612x612&w=0&k=20&c=IW5MFJ8KC0tLdSFnINxhpeaXP6h9RXsFvw4Ga4s9fJ8=",
+            "https://media.istockphoto.com/id/1651304378/es/foto/retrato-del-perro-labrador-en-el-campo-de-hierba-alta.jpg?s=612x612&w=0&k=20&c=25PkxOPPgjq2AHwJvCN0Z4G13ZckKFIHcBWDTTmO4q0="]
+        }
+    ],
+
+    "datos":[
+        {
+            "titulo": "Información de la raza",
+            "descripcion":"El Labrador cuenta con múltiples rasgos adorables es inteligente, es fácil de adiestrar y es un excelente compañero de familia. Necesitan practicar ejercicio moderado porque, en caso contrario, o si se quedan solos, pueden adoptar comportamientos destructivos."
+        },
+        {
+            "titulo":"Características del pelo",
+            "descripcion":"Se destaca por su pelo corto. Los colores más habituales son negro, amarillo y chocolate, al tener su pelaje corto, esto baja la necesidad de aseo diario"
+        },
+        {
+            "titulo": "Cuidados especiales",
+            "descripcion":"Siempre hay que recordar que los labradores son perros de agua por naturaleza, y desde muy pequeños los cachorros muestran un fuerte deseo de llevar consigo cosas y una fuerte atracción por el agua, incluso por los charcos."
+        }
+    ],
+
+
+    "caracteristicas":[
+        {
+            "titulo":"Altura:",
+            "descripcion":"55-58 cm"
+        },
+        {
+            "titulo":"Nivel de energía:",
+            "descripcion":"Media"
+        },
+        {
+            "titulo":"Rango de peso:",
+            "descripcion":"29 - 35 kg"
+        },
+        {
+            "titulo":"Necesidad de atención:",
+            "descripcion":"Media"
+        },
+        {
+            "titulo":"Tendencia a ladrar:",
+            "descripcion":"Media"
+        },
+        {
+            "titulo":"Tendencia a excavar:",
+            "descripcion":"Baja"
+        },
+        {
+            "titulo":"Esperanza de vida:",
+            "descripcion":"10 - 12 años"
+        }
+    ]},
+
+
+
+    "Pastor":{
+    "cabecera":[
+        {
+            "titulo": "Pastor Aleman",
+            "img":["https://media.istockphoto.com/id/1431487447/es/foto/serio-perro-pastor-alem%C3%A1n-negro-y-bronceado-posando-al-aire-libre-en-un-bosque-acostado-en-un.jpg?s=612x612&w=0&k=20&c=ndKxyBjFSOiKlRWGm0jErFWzhYsBFGVv7SVqCqW9ITE=","https://media.istockphoto.com/id/1281494368/es/foto/perro-pastor-alem%C3%A1n-acostado-en-la-hierba.jpg?s=612x612&w=0&k=20&c=T7v3tESdt3cnenTANX-KE1Fnbt7jKw7lYeAfNHDdYNU=",
+            "https://media.istockphoto.com/id/1358309706/es/foto/un-cachorro-de-pastor-alem%C3%A1n-de-raza-pura-yace-en-la-acera-contra-una-pared-de-madera-orejas-a.jpg?s=612x612&w=0&k=20&c=7rHcqwB-mADzVztdkRoNgfSJjXHpqMP_HNGo9TdOxrg=","https://media.istockphoto.com/id/1145468364/es/foto/perro-pastor-alem%C3%A1n.jpg?s=612x612&w=0&k=20&c=C59An59elWogKcrlbiF700Jj4fjn01amvUjrNjaUJT4=","https://media.istockphoto.com/id/1438801972/es/foto/retrato-de-pastor-alem%C3%A1n-en-la-cima-de-una-monta%C3%B1a-en-washington.jpg?s=612x612&w=0&k=20&c=Eiz_kQeKm89hkoi9_0p2SGdFfrqAUuyOTNtKdSksm98="]
+        }
+    ],
+
+    "datos":[
+        {
+            "titulo": "Información de la raza",
+            "descripcion":" Se trata de un perro bien proporcionado. La cabeza es ancha y se estrecha con gracia en un hocico afilado. Las orejas son bastante largas y se mantienen erguidas.La espalda está nivelada y es musculosa terminando en una cadera que se curva hacia abajo y en una cola bastante poblada."
+        },
+        {
+            "titulo":"Cuidado del pelo",
+            "descripcion":"El pelo es grueso, duro y áspero presentando generalmente una longitud media, sin embargo, a menudo nacen ejemplares de pelo largo. El color del pelo puede ser negro, pardo, negro y pardo o gris. "
+        },
+        {
+            "titulo": "Cuidados especiales",
+            "descripcion":"Algunos pastores alemanes que no se han criado debidamente pueden ser muy excitables y nerviosos. Una mala socialización y un adiestramiento inadecuado, pueden desencadenar comportamientos de sobreprotección o agresivos."
+        }
+    ],
+
+
+    "caracteristicas":[
+        {
+            "titulo":"Altura:",
+            "descripcion":"58 - 64cm"
+        },
+        {
+            "titulo":"Nivel de energía:",
+            "descripcion":"Media"
+        },
+        {
+            "titulo":"Rango de peso:",
+            "descripcion":"34 - 43 kg"
+        },
+        {
+            "titulo":"Necesidad de atención:",
+            "descripcion":"Media"
+        },
+        {
+            "titulo":"Esperanza de vida:",
+            "descripcion":"10 - 12 años"
+        }
+    ]},
+
+
+
+
+    "Rottweiler":{
+    "cabecera":[
+        {
+            "titulo": "Rottweiler",
+            "img":["https://media.istockphoto.com/id/1387323314/es/foto/rottweiler-real.jpg?s=612x612&w=0&k=20&c=iDqcqfJr1O7yxj2R1gQFkN3z6aR9ZGVZNawlCgO88MA=","https://media.istockphoto.com/id/1486320338/es/foto/perro-rottweiler-cansado-en-el-bosque.jpg?s=612x612&w=0&k=20&c=HmP0qWr89krC2TxkA-5YeknKbZchdFc-69LyGwB53-A=",
+            "https://media.istockphoto.com/id/1493155343/es/foto/adorable-rottweiler-sentado-en-una-exuberante-hierba-verde-mirando-hacia-arriba-con-una-mirada.jpg?s=612x612&w=0&k=20&c=-8-lB00zNWxoqUZOG-IbiT2a49UL1xma5Ae8wCyLSaU=","https://media.istockphoto.com/id/1323860605/es/foto/rottweiler.jpg?s=612x612&w=0&k=20&c=BNR6Lo-qv_L8ZyQu9_fPV54s_22pMhmrVHBw1gcdlKY=","https://media.istockphoto.com/id/1731522283/es/foto/cachorro-rottweiler-en-la-naturaleza.jpg?s=612x612&w=0&k=20&c=OvOnc4JJlLwXlGHyh9bka826pehv_Q6KybjpApSvBhY="]
+        }
+    ],
+
+    "datos":[
+        {
+            "titulo": "Información de la raza",
+            "descripcion":"Los Rottweilers, no recomendados para propietarios primerizos,necesitan una socialización amplia y continua para ser buenos compañeros de la familia."
+        },
+        {
+            "titulo":"Características del pelo",
+            "descripcion":" Los rottweilers siempre deben ser negros con puntos pardos, y el pelo ideal es bastante corto, denso y algo duro. Aunque a veces nace un cachorro tupido en una camada, ese pelaje está descalificado en el ámbito de la crianza."
+        },
+        {
+            "titulo": "Personalidad",
+            "descripcion":"Son perros guardianes, trabajadores y protectores. Se llevan bien con las personas y otros perros, los machos, pueden ser algo agresivos y dominantes. Son perros activos e inteligentes,seguros de sí mismos, actuan por su cuenta, por lo que necesitan que se les oriente desde el primer momento. Pueden ser ladradores compulsivos, molestos o excavadores. Fueron criados para trabajar, lo mejor para estos perros es el adiestramiento y las tareas, aunque sea el acompañamiento de un niño. Las agresiones pueden ser un problema, ya que son capaz de hacer mucho daño, por lo que necesitan firmeza y un propietario paciente y experto."
+        }
+    ],
+
+
+    "caracteristicas":[
+        {
+            "titulo":"Altura:",
+            "descripcion":"58 - 64cm"
+        },
+        {
+            "titulo":"Tendencia a excavar:",
+            "descripcion":"Baja"
+        },
+        {
+            "titulo":"Rango de peso:",
+            "descripcion":"36 - 61 kg"
+        },
+        {
+            "titulo":"Necesidad de atención:",
+            "descripcion":"Alta"
+        },
+        {
+            "titulo":"Tendencia a babear:",
+            "descripcion":"Moderada"
+        },
+        {
+            "titulo":"Tendencia a ladrar:",
+            "descripcion":"Moderada"
+        }
+    ]}
+
+
+}
