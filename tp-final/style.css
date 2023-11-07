@@ -1,0 +1,32 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 60px;
+}
+.container img {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+}
+
+h3{
+  font-style: italic;
+  color:black;
+  text-align: center;
+}
+
+.navbar {
+  position:absolute;
+  top: 1px;
+  right: 0px;
+  left: 0px;
+  background: #e4af4d;
+  width: 1250px;
+  height: 30px;
+  padding: 12px;
+}
+.navbar-brand {
+  color: #000000;
+  font-size: 1.6rem;
+}
+.navbar-brand i { font-size: 2rem; }
